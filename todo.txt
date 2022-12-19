@@ -1,0 +1,5 @@
+This is an example of how to embed an image <img src="{{ URL::to('/img/1.jpg') }}" alt="tag">
+
+Hack new-product to get ownsproduct working for users.
+
+Get order packages built to persist server-side unlike the cart, stored in a cookie.
